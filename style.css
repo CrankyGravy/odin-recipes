@@ -1,0 +1,39 @@
+body {
+  background: #eee;
+  font-family: "Arial", sans-serif;
+}
+
+.the-body {
+  width: 400px;
+  background: #e06969;
+  margin: 16px auto;
+  padding: 8px;
+  border-radius: 25px;
+}
+
+#title {
+  font-size: 36px;
+  color: #eee;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  letter-spacing: 6px;
+}
+
+.food-list {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  margin-left: 70px;
+}
+
+.food-link {
+  font-weight: bold;
+  color: #8513b9;
+}
+
+.site-desc {
+  text-align: center;
+  padding: 8px;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+}
